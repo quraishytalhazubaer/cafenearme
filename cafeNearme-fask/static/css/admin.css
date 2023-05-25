@@ -1,0 +1,20 @@
+/* user page */
+.user_header{
+    background-color: var(--cs-title);
+}
+
+.userpg{
+    padding-top: 120px;
+}
+
+.user_pfp img{
+    border-radius: 100%;
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
+
+/* admin panel */
+.userlist {
+    padding-top: 120px;
+}
